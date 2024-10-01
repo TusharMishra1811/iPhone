@@ -10,7 +10,6 @@ export default defineConfig({
       org: "demo-0r",
       project: "javascript-react",
     }),
-    checker
   ],
 
   build: {
